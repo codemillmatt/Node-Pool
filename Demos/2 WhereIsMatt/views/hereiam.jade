@@ -1,0 +1,13 @@
+﻿extends layout
+
+block content
+    .row
+        .col-md-8
+            form
+                .form-group
+                    label(for='whereami') Where am I?
+                    input#whereami(type='text' placeholer='planet earth').form-control
+                button#tellem Tell 'em
+
+block scripts
+    script(type='text/javascript' src='/javascripts/hereismatt.js')

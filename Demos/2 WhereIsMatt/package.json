@@ -1,0 +1,16 @@
+{
+  "name": "AzureExpressApp1",
+  "version": "0.0.0",
+  "description": "AzureExpressApp1",
+  "main": "app.js",
+  "author": {
+    "name": "msouc",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "socket.io": "^1.3.6",
+    "stylus": "*"
+  }
+}

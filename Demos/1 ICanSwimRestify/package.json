@@ -1,0 +1,13 @@
+{
+  "name": "ICanSwimRestify",
+  "version": "0.0.0",
+  "description": "ICanSwimRestify",
+  "main": "server.js",
+  "author": {
+    "name": "msouc",
+    "email": ""
+  },
+  "dependencies": {
+    "restify": "^3.0.3"
+  }
+}
