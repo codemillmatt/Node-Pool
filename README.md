@@ -13,6 +13,7 @@ The following resources were used during the research of this talk and should pr
 
 ### What Is Node.js?
 * https://nodejs.org/
+* https://www.npmjs.com/
 * https://github.com/joyent/node
 * http://www.pluralsight.com/courses/nodejs-dotnet-developers
 
