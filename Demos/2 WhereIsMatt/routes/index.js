@@ -4,6 +4,7 @@
  */
 
 exports.where = function (req, res) {
+    console.log('where hit');
     res.render('where', { title: 'Where Is Matt?', year: new Date().getFullYear(), message: 'Where is Matt?' });
 };
 
