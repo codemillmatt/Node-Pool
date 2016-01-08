@@ -2,7 +2,7 @@
 
 ## An Introduction To Node.js For .Net Developers
 
-This repository contains the slide deck and sample code used during the Everbody Into The Pool talk at That Conference on August 10, 2015 and St Louis Days of .Net on November 14, 2015.
+This repository contains the slide deck and sample code used during the Everbody Into The Pool talk at That Conference on August 10, 2015, St Louis Days of .Net on November 14, 2015, and CodeMash on January 8, 2016.
 
 1. The first demo simply walked through some of the features for Node.js Tools for Visual Studio and a Hello World, or Look Mom, I Can Swim demo. Then we added Restify via npm and created a REST based server.
 2. The second demo walked through the structure of a more complicated Node.js application including a basic Express app layout, and also showed how easy it was to get a Node.js site up into Azure.
