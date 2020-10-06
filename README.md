@@ -24,7 +24,7 @@ The following resources were used during the research of this talk and should pr
 * https://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio?WT.mc_id=nodepool-github-masoucou
 
 ### Azure and Edge
-* https://azure.microsoft.com:80/develop/nodejs/?WT.mc_id=nodepool-github-masoucou
+* https://azure.microsoft.com/develop/nodejs/?WT.mc_id=nodepool-github-masoucou
 * http://tjanczuk.github.io/edge/#/8
 * https://msdn.microsoft.com/magazine/JJ991974.aspx?WT.mc_id=nodepool-github-masoucou
 * https://github.com/Azure/azure-sdk-for-node
