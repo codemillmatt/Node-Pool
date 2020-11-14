@@ -19,16 +19,16 @@ The following resources were used during the research of this talk and should pr
 
 ### Installing Node.js and Node.js Tools For Visual Studio
 * https://chocolatey.org/packages/nodejs.install
-* https://www.visualstudio.com/features/node-js-vs
+* https://www.visualstudio.com/features/node-js-vs?WT.mc_id=mobile-0000-masoucou
 * https://github.com/Microsoft/nodejstools
-* https://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio
+* https://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio?WT.mc_id=mobile-0000-masoucou
 
 ### Azure and Edge
-* http://azure.microsoft.com/en-us/develop/nodejs/
+* https://azure.microsoft.com/develop/nodejs/?WT.mc_id=mobile-0000-masoucou
 * http://tjanczuk.github.io/edge/#/8
-* https://msdn.microsoft.com/en-us/magazine/JJ991974.aspx
+* https://msdn.microsoft.com/magazine/JJ991974.aspx?WT.mc_id=mobile-0000-masoucou
 * https://github.com/Azure/azure-sdk-for-node
-* https://azure.microsoft.com/en-us/documentation/articles/sql-database-develop-nodejs-simple-windows/
+* https://azure.microsoft.com/documentation/articles/sql-database-develop-nodejs-simple-windows/?WT.mc_id=mobile-0000-masoucou
 
 ### Misc
 * http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
